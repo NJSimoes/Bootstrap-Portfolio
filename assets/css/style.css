@@ -1,3 +1,5 @@
+
+
 body {
   margin: auto;
   max-width: 960px;
@@ -10,14 +12,30 @@ body {
   margin: auto;
 }
 p {
-  margin: 0px 20px 0px 20px;
+  margin: 0px;
   padding: 20px;
   background-color: white;
 }
 p1 {
   background-color: white;
-
-  }
+  max-width: 960px;
+  margin: 0px;
+}
+p2 {
+  background-color: teal;
+  color: white;
+  font-size: 40px;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  width: 960px;
+  background-color: #666666;
+  color: #cccccc;
+  text-align: center;
+  padding: 20px;
+}
 
 
 
